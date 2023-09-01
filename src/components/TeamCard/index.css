@@ -1,0 +1,23 @@
+.link {
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 130px;
+  border-radius: 8px;
+
+  margin: 10px;
+  padding: 20px;
+}
+.link img {
+  height: 60px;
+  margin-right: 12px;
+}
+li {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
